@@ -4,7 +4,7 @@ import 'package:clima/services/networking.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
-const apiKey = 'f0d3bb0f34eb25cc90bccbd5d1593d18';
+const apiKey = ''; // Enter your OpenWeatherMap API key here
 
 class LoadingScreen extends StatefulWidget {
   @override
